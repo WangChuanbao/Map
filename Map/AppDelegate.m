@@ -19,6 +19,7 @@
     // Override point for customization after application launch.
     /*
      ios自带地图，MapKit使用学习
+     storyboard进行布局
      */
     return YES;
 }
